@@ -32,3 +32,10 @@ outputs = ["Reveal"]
 - fasdfasfasdf
 - asfasdfasdfasdf
 
+---
+
+# 주언이에게
+
+주언아 밥 잘 먹고 면접봐!  
+시간대가 괜찮은 것 같아 ㅎㅎ 건승하렴~!!
+
