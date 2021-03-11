@@ -5,8 +5,8 @@ outputs = ["Reveal"]
 
 {{% section %}}
 # Soundhub
----
 
+---
 # Soundhub: 소개
 - **개요**: 여러 사람들이 음악 트랙을 공유하고, 믹스할 수 있는 앱
   - 음악 트랙을 Posting 하고, 
@@ -15,6 +15,7 @@ outputs = ["Reveal"]
 - **팀**: Backend 2, iOS 1, Android 1
 - **맡은 파트**: DB 구조 설계, 유저 파트, 배포 등
 - **데모 영상**: https://www.youtube.com/watch?v=fukEqcsbkJA 
+
 ---
 # Soundhub: 구현된 핵심 기능
 
