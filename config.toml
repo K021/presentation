@@ -15,5 +15,9 @@ isHTML = true
 [params.reveal_hugo]
 custom_theme = "reveal-hugo/themes/robot-lung-custom.css"
 margin = 0.1
-highlight_theme = "color-brewer"
 transition_speed = 'fast'
+highlight_theme = "foundation"
+
+[markup.highlight]
+codeFences = false
+style = "rrt"
