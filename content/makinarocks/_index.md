@@ -579,8 +579,8 @@ soundhub/
       settings/
         __init__.py
         base.py
+        deploy.py
         local.py
-        debug.py
 ```
 
 - secret 정보 분리 (django secret key, encryption key 등)
