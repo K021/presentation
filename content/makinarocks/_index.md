@@ -575,7 +575,7 @@ def delete_staleuser():
 .config_secrets/
     settings_common.json
 soundhub/
-    mysite/
+    config/
       settings/
         __init__.py
         base.py
