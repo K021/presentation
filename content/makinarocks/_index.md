@@ -775,9 +775,6 @@ script:
 ```
 
 ---
-# Thanks
-
----
 # Sentry
 
 ```Python{}
